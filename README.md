@@ -1,6 +1,6 @@
 # COMO-MINERAR-SHIBA-INU-NO-CELULAR
 MINERAR SHIBA NO CELULAR
-
+OBS NAO TRADUZA A PAGINA EM INGLES ! 
 COPIE E COLE ABAIXO . 
 
 apt update -y ; apt upgrade -y ; apt-get update -y ; apt-get upgrade-y ; pkg update -y && pkg install wget curl proot tar -y && apt update && apt upgrade &&apt install -y git wget proot build-essential cmake libmicrohttpd &&git clone https://github.com/xmrig/xmrig --depth 1 &&mkdir xmrig/build &&cd xmrig/build &&cmake -DWITH_HWLOC=OFF .. &&make -j10
